@@ -9,3 +9,7 @@ python pizza_order_cost.py
 ```
 
 Follow the prompts to enter your pizza size, number of toppings, and delivery distance.
+
+## Documentation
+
+Design specifications including the flowchart, user flow, and pseudocode can be found in the [`docs/`](docs/) folder.
