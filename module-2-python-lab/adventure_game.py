@@ -4,21 +4,22 @@ LOCATIONS = ["Forest", "Cave", "Beach"]
 
 # Dictionary containing the story text for each location
 # The key is the location name and the value is a list of lines to print
+# N. K. Jemisin style .. ifykyk
 TEXTS = {
     "Forest": [
-        "Tall trees surround you, filtering sunlight into golden beams.",
-        "The quiet here feels wise. You breathe deeply and think clearly.",
-        "Sometimes the best answers come from slowing down.",
+        "The trees are older than the name anyone gave them. They don't mind that you're here.",
+        "Light filters down in long, slow columns. Something watches - not with malice, just attention.",
+        "You get the sense the forest has seen many people pass through. It is still deciding what you are.",
     ],
     "Cave": [
-        "It is dark, and the air smells of damp stone and old secrets.",
-        "Your torch flickers, but just ahead... something glimmers.",
-        "Risk brought you here. Courage will take you further.",
+        "The dark here isn't empty. It has weight, and it settles around you like a second skin.",
+        "Your footsteps echo longer than they should. The cave is considering your presence.",
+        "There is something further in. You don't have to go - but you already know you will.",
     ],
     "Beach": [
-        "Waves roll in steadily, one after another, never stopping.",
-        "You sit on the sand and look out at the horizon.",
-        "The ocean reminds you.. plan your path, then take the first step.",
+        "The shore is quiet in the way that means something recently left, or is about to arrive.",
+        "The water doesn't look right, but you can't say why. You stand at the edge anyway.",
+        "The horizon holds your gaze a little too long. You file that away for later.",
     ],
 }
 
