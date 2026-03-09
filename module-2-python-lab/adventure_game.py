@@ -18,7 +18,7 @@ TEXTS = {
     "Beach": [
         "Waves roll in steadily, one after another, never stopping.",
         "You sit on the sand and look out at the horizon.",
-        "The ocean reminds you: plan your path, then take the first step.",
+        "The ocean reminds you.. plan your path, then take the first step.",
     ],
 }
 
